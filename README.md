@@ -1,1 +1,2 @@
 # odin-recipes
+This simple project required basic knowledge of HTML tags. The purpose of the website was to practice and get confortable with the tags used for headings, paragraphs, links, images and overall HTML. Soon, will be added a CSS stylesheet.
